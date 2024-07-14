@@ -1,0 +1,10 @@
+{
+  "name": "email-dashboard",
+  "version": "1.0.0",
+  "description": "This is a basic email dashboard project.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "sudoevans",
+  "license": "ISC"
+}

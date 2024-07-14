@@ -1,0 +1,47 @@
+.email-inbox {
+    height: 100%;
+  }
+  
+  .search-filter {
+    margin-bottom: 10px;
+  }
+  
+  .search-filter input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .email-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .email-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
+  .email-list li:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .email-subject {
+    font-weight: bold;
+  }
+  
+  .email-snippet {
+    color: #666;
+  }
+  
+  .email-date {
+    text-align: right;
+    color: #999;
+  }
+  
+  .email-view {
+    margin-top: 20px;
+  }
+  

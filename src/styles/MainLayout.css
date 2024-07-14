@@ -1,0 +1,17 @@
+.main-layout {
+    display: flex;
+    height: calc(100vh - 60px); /* Adjust if header height changes */
+  }
+  
+  .left-column {
+    flex: 2;
+    border-right: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  .right-column {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
